@@ -9,11 +9,11 @@
 **Python 版本**：≥ 3.8  
 
 ### 注意  
-**SILVA 138.2 原始数据库文件过大（> 2 GB），无法直接上传至 GitHub**  
+**SILVA 138.2 原始数据库文件过大，无法直接上传至 GitHub**  
 
 如需使用 SILVA 138.2（DADA2 或原始格式）进行测试或建库，请联系我获取：  
 
-**邮箱**：lw718zhao@foxmail.com  
+**邮箱**：lw_zhao@foxmail.com  
 （邮件标题建议写：`Request SILVA 138.2 database`）
 
 ---
